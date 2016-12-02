@@ -2,5 +2,6 @@
   "description": "small project to convert",
   "repository": "https://github.com/DjThossi/image-converter",
   "dependencies": {
+    "line-by-line": "~0.1.5"
   }
 }
